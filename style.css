@@ -10,7 +10,7 @@
   .container {
     width: 960px;
     margin: 0 auto;
-    background: black;
+    background: rgb(247, 4, 4);
     overflow: hidden;
   }
   
@@ -18,7 +18,7 @@
     text-align: center;
     width: 880px;
     height: 150px;
-    background: rgb(167, 167, 165);
+    background: rgb(131, 128, 128);
     margin: 0 auto;
   }
   
